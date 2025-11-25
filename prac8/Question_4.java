@@ -1,4 +1,7 @@
-
+/*
+Write a selenium script to double click and right click the elements on 
+http://demo.guru99.com/test/simple_context_menu.html
+*/
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -54,3 +57,4 @@ public class Question_4 {
         driver.quit();
     }
 }
+
