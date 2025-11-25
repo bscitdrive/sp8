@@ -1,4 +1,8 @@
-package shariq_85_prac8;
+/*
+Write a selenium script to select tile 3 using moveByOffset() method and select tile 11 using click 
+on web Element method click() on Selectable.html 
+*/
+package prac8;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -36,3 +40,4 @@ public class Question_3 {
         driver.quit();
     }
 }
+
