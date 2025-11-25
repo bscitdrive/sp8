@@ -1,4 +1,6 @@
-
+/*
+Write a selenium script to implement drag and drop action on https://demoqa.com/droppable/
+*/
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -48,3 +50,4 @@ public class Question_6 {
 	}
 
 }
+
