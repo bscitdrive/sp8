@@ -1,4 +1,8 @@
-
+/*
+Write a selenium script to drag the BANK element and drop on the DEBIT SIDE block through 
+dragAndDrop method on the following webpage 
+http://demo.guru99.com/test/drag_drop.html. Use xpath to locate required elements.
+*/
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -44,3 +48,4 @@ public class Question_5 {
 	}
 
 }
+
