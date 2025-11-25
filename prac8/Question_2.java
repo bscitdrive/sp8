@@ -1,4 +1,6 @@
-
+/*
+Write a selenium script to select tile 1, tile 5, tile 11 on Selectable.html
+*/
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
@@ -47,3 +49,4 @@ public class Question_2 {
         driver.quit();
     }
 }
+
